@@ -1,18 +1,7 @@
 # java-project-using-gradle
 create java project and jar file using gradle
 
-commands
-- pwd
-
-    ```
-    Path
-    ----
-    D:\devTools\gradle-6.0\bin
-    ```
-
-- Create wrapper
-  - D:\devTools\gradle-6.0\bin\gradle wrapper
-  
+commands  
 - Clean build project
   - ./gradlew clean build
 
